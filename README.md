@@ -134,19 +134,23 @@ print("accuracy = " , accuracy_score(classifier.predict(x_test), y_test)*100)
 ```
 ## OUTPUT:
 ### Dataset:
-![output](ss1.png)
+![2 1 NN](https://github.com/Guru-Guna/Experiment-2--Implementation-of-Perceptron/assets/93427255/3a423af1-7027-4bae-83b4-2c2e3c2103b3)
+
 
 ### Scatter Plot:
-![output](ss2.png)
+![2 2 NN](https://github.com/Guru-Guna/Experiment-2--Implementation-of-Perceptron/assets/93427255/f9a559d2-0cec-4b54-b045-be5ba2101302)
+
 
 ### Y- Values:
-![output](ss5.png)
+![2 3 NN](https://github.com/Guru-Guna/Experiment-2--Implementation-of-Perceptron/assets/93427255/8bf050a6-2fea-4d91-aac9-8ac54327e221)
+
 
 ### Error Plot:
-![output](ss3.png)
+![2 4 NN](https://github.com/Guru-Guna/Experiment-2--Implementation-of-Perceptron/assets/93427255/eafcd4ac-eb29-499a-a95c-78b7a9cecbf2)
+
 
 ### Accuracy:
-![output](ss4.png)
+![2 5 NN](https://github.com/Guru-Guna/Experiment-2--Implementation-of-Perceptron/assets/93427255/cfafb442-48fc-406a-8b6f-2091f3ac65ed)
 
 ## RESULT:
 Thus, a perceptron for classification is implemented using python.
